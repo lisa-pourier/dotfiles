@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = lisapourier@gmail.com
-	name = lisa pourier
+	email = lisapourierlewagon/dotfiles
+	name = exec zsh
